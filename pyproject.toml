@@ -1,0 +1,14 @@
+[project]
+name = "micropython-button"
+version = "1.0.0"
+description = "A MicroPython library for easy button handling with debounce, long press, and sequences."
+authors = [
+    {name = "Miguel Scaramozzino", email = "mikele@gmail.com"}
+]
+license = {text = "MIT"}
+readme = "README.md"
+urls = {repository = "https://github.com/mikelexp/micropython-button"}
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"

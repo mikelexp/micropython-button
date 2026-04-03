@@ -1,0 +1,7 @@
+{
+  "urls": [
+    ["button.py", "github:mikelexp/micropython-button/button.py"]
+  ],
+  "deps": [],
+  "version": "1.0.0"
+}
