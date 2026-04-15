@@ -3,7 +3,7 @@
 # Port of EasyButton (https://github.com/evert-arias/EasyButton)
 #
 # MIT License
-# Copyright (c) 2024 Your Name
+# Copyright (c) 2026 Miguel Scaramozzino
 
 from machine import Pin
 from time import ticks_ms, ticks_diff
